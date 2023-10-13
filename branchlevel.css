@@ -11,8 +11,8 @@ img{
   width:300px;
   height:200px;
   border:10px yellow;
-  color:white;
-  border-radius:20px;
+  color:red;
+  border-radius:25px;
   vertical-align: top;
 }
 

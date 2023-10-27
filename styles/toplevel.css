@@ -4,13 +4,13 @@ body {
 }
 
 h1 {
-  color: red;
+  color: rgb(33, 210, 159);
 }
 
 img{
   width:300px;
   height:200px;
-  border:10px solid green;
+  border:10px solid blue;
   color:white;
   border-radius:20px;
 }

@@ -1,8 +1,8 @@
 
-function showAlt(x) {
+function showAlt(x) 
   document.getElementById("alttext").innerHTML=x.alt;
 }
 
-function hideAlt(x) {
+functi deAlt(x) {
   document.getElementById("alttext").innerHTML="";
 

@@ -5,4 +5,4 @@ function showAlt(x) {
 
 function hideAlt(x) {
   document.getElementById("alttext").innerHTML="";
-}
+
